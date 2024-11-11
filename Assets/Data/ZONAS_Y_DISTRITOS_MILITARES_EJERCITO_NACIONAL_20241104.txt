@@ -1,0 +1,73 @@
+ZONA	ZONA -DIM	DIRECCION	CIUDAD	TELEFONO	LOCATION	CORREO ELECTRÓNICO			lat	lon
+1	Zona 01	Cl 25 Cra 1 barrio el Dorado	Tunja	(601) - 3208327124	"(5.53598, -73.34987)"	zona1@buzonejercito.mil.co			5.53598	-73.34987
+1	6	Cl 7 Nº 6-05 Barrio ricaurte	Chiquinquira	(601) - 3208328458	"(5.60998, -73.82092)"	dim06@buzonejercito.mil.co			5.60998	-73.82092
+1	7	Carrera 11bN°140a-64	Tunja	(601) - 3203912367	"(5.53598, -73.34987)"	dim07@buzonejercito.mil.co			5.53598	-73.34987
+1	8	Cra 11 30-00 KM4 VIA IZA	SOGAMOSO	(601) - 3203912368	"(5.67953, -72.95654)"	dim08@buzonejercito.mil.co			5.67953	-72.95654
+1	49	Cra 9 N° 5 Impar Barrio El Gaitán Barbosa - Santander	Barbosa	(601) - 3208328461	"(5.92906, -73.61982)"	dim49@buzonejercito.mil.co			5.92906	-73.61982
+2	Zona 02	Cl 79#68 00 Batallon paraiso	Barranquilla	(601) - 3208327129	"(11.010175, -74.80385)"	zona2@buzonejercito.mil.co			11.010175	-74.80385
+2	10	Cl 79#68 00 Batallon paraiso	Barranquilla	(601) - 3208322045	"(11.01173, -74.80377)"	dim10@buzonejercito.mil.co			11.01173	-74.80377
+2	12	Cra 4 Cl 34- 00 km 1 Via al Rodadero Batallon Cordoba	Santa Marta	(601) - 3203911143	"(11.22908, -74.2151)"	dim12@buzonejercito.mil.co			11.22908	-74.2151
+2	14	Transversal 52 # 17-150 Barrio el Bosque	Cartagena	(601) - 3203930176	"(10.39298, -75.52593)"	dim14@buzonejercito.mil.co			10.39298	-75.52593
+2	15	Cl 13 C N° 21 -06 Avenida Pan de Azucar Barrio la Popa	Valledupar	(601) - 3208329650	"(10.46271, -73.27619)"	dim15@buzonejercito.mil.co			10.46271	-73.27619
+2	44	Cl 79 Cra 68  Batallon Paraiso BAPOM N°2	Barranquilla	(601) - 3203930173	"(11.01168, -74.80352)"	dim44@buzonejercito.mil.co			11.01168	-74.80352
+2	45	Km 5 Via Riohacha-Maicao	Riohacha	(601) - 3208329656	"(11.51341, -72.8672)"	dim45@buzonejercito.mil.co			11.51341	-72.8672
+3	Zona 03	CRA 80 # 4-26	CALI	(601) - 3208327162	"(3.38623, -76.54507)"	zona3@buzonejercito.mil.co			3.38623	-76.54507
+3	16	CRA 80 # 4-26	CALI	(601) - 3203930169	"(3.38623, -76.54507)"	dim16@buzonejercito.mil.co			3.38623	-76.54507
+3	17	CRA 80 # 4-26	CALI	(601) - 3203928898	"(3.38623, -76.54507)"	dim17@buzonejercito.mil.co			3.38623	-76.54507
+3	18	Avenida carrera 31 via pradera	PALMIRA	(601) - 3203913642	"(3.52827, -76.27456)"	dim18@buzonejercito.mil.co			3.52827	-76.27456
+3	19	"km1 via, La Habana"	BUGA	(601) - 3203913640	"(3.89311, -76.28954)"	dim19@buzonejercito.mil.co			3.89311	-76.28954
+3	20	AVENIDAD LOS CUARTELES No.80-00	POPAYAN	(601) - 3203913637	"(2.45711, -76.60656)"	dim20@buzonejercito.mil.co			2.45711	-76.60656
+3	21	cra 6 # 17-51 centro	IPIALES	(601) - 3208329664	"(4.94415, -77.383564)"	dim21@buzonejercito.mil.co			4.94415	-77.383564
+3	23	cra 15 #19-32	PASTO	(601) - 3203911164	"(1.20674, -77.27268)"	dim23@buzonejercito.mil.co			1.20674	-77.27268
+3	58	cra 8 # 3-110	BUENAVENTURA	(601) - 3203912378	"(3.89126, -77.07608)"	dim58@buzonejercito.mil.co			3.89126	-77.07608
+4	Zona 4	Carrera 77 C No. 51 - 158	Medellín	(601) - 3208328448	"(6.26406, -75.59307)"	zona4@buzonejercito.mil.co			6.26406	-75.59307
+4	24	Carrera 77 C No. 51 - 158	Medellín	(601) - 3203912372	"(6.2641, -75.59301)"	dim24@ejercito.mil.co			6.2641	-75.59301
+4	25	Kilometro 1 Via al mar	Carepa	(601) - 3207581101	"(7.778828, -76.655211)"	dim25@buzonejército.mil.co			7.778828	-76.655211
+4	26	Cll 66D # 39a - 66	Medellin	(604) 5820256	"(6.26012, -75.551266)"	dim26@buzonejercito.mil.co			6.26012	-75.551266
+4	27	Calle 45 # 18-85	Medellín	(601) - 3184115081	"(6.234471, -75.548507)"	dim27@buzonejercito.mil.co			6.234471	-75.548507
+4	28	Calle 50 # 4 esquina	Puerto Berrio	(601) - 32083296690	"(6.48883, -74.40154)"	dim28@buzonejercito.mil.co			6.48883	-74.40154
+4	29	Cl. 24 # 23 - 103	Quibdo	(601) - 3208329658	"(5.68401, -76.63129)"	dim29@buzonejercito.mil.co			5.68401	-76.63129
+4	48	Carrera 77 C No. 51 - 158	Medellín	(601) - 3208637119	"(6.263922, -75.593032)"	dim48@buzonejercito.milco			6.263922	-75.593032
+5	Zona 5	Cra 33 # 18-00 barrio San Alonso	Bucaramanga	(601) - 3203933955	"(7.11392, -73.1198)"	dim32@buzonejercito.mil.co			7.11392	-73.1198
+5	32	Cra 33 # 18-00 barrio San Alonso	Bucaramanga	(601) - 3203933955	"(7.11392, -73.1198)"	dim32@buzonejercito.mil.co			7.11392	-73.1198
+5	33	Carretera Central Via Bogota Batallon Galan	Socorro	(601) - 3208322042	"(6.467, -73.267)"	dim33@buzonejercito.mil.co			6.467	-73.267
+5	34	Av. Circunvalar Calle 52 Entrada Pueblo Nuevo Batallon Nueva Granada	Barrancabermeja	(601) - 3208322043	"(7.067, -73.867)"	dim34@buzonejercito.mil.co			7.067	-73.867
+5	35	Via Cuarteles Grupo Maza	Cucuta	(601) - 3208322038	"(7.89391, -72.50782)"	dim35@buzonejercito.mil.co			7.89391	-72.50782
+5	36	Av. Santander Calle 34 Instalaciones Batallon Garcia Rovira	Pamplona	(601) - 3208329669	"(7.37806, -72.6525)"	dim36@buzonejercito.mil.co			7.37806	-72.6525
+5	37	Via Cucuta Batallon Santander	Ocaña	(601) - 3208329670	"(8.233, -73.356)"	dim37@buzonejercito.mil.co			8.233	-73.356
+5	53	Cra 1 # 16-07 Barrio Flor de mi Llano Decima Octaba Brigada	Arauca	(601) - 3208329671	"(7.083, -70.75)"	dim53@buzonejercito.mil.co			7.083	-70.75
+6	Zona 6	calle 8 carrera 12	Ibague	(601) - 3208327144	"(4.448528923660595, -75.23805837310121)"	dim38@buzonejercito.mil.co			4.448528924	-75.23805837
+6	38	calle 8 carrera 12	Ibague	(601) - 3208327144	"(4.448528923660595, -75.23805837310121)"	dim38@buzonejercito.mil.co			4.448528924	-75.23805837
+6	40	cra 22 N 2-22	Honda	(601) - 3203911167	"(5.194378824629884, -74.75012289923147)"	dim40@buzonejercito.mil.co			5.194378825	-74.7501229
+6	41	Cra 2 N 21 A 02	Girardot	(601) - 3202911168	"(4.301434162315393, -74.79581380138319)"	dim41@buzonejercito.mil.co			4.301434162	-74.7958138
+6	57	calle 14 Nº 15 00	chaparral	(601) - 3203911176	"(3.7249527378364595, -75.49431314854871)"	dim57@buzonejercito.mil.co			3.724952738	-75.49431315
+7	Zona 07	Kilometro 1 Via Puerto Lopez	Villavicencio	(601) - 3208328396	"(4.119678, -73.614848)"	zona7@buzonejercito.mil.co			4.119678	-73.614848
+7	5	Kilometro 1 Via Puerto Lopez	Villavicencio	(601) - 3208322051	"(4.119678, -73.614848)"	dim05@buzonejercito.mil.co			4.119678	-73.614848
+7	9	Trasversal 18 Calle 6 Avenida Marginal de la Selva	Yopal	(601) - 3208322049	"(5.348982, -72.402815)"	dim09@buzonejercito.mil.co			5.348982	-72.402815
+7	54	Kilometro 1 via Fuente de Oro Canton Militar Ariari	Granada	(601) - 3208328455	"(3.53277, -73.70079)"	dim54@buzonejercito.mil.co			3.53277	-73.70079
+8	Zona 08	Avenida Bolibar # 25 - 00 Octava Brigada	ARMENIA	(601) - 3208328451	"(4.561948, -75.652965)"	zona8@buzonejercito.mil.co			4.561948	-75.652965
+8	22	Avenida Sur Parte Superior Batallon Sanmateo	PEREIRA	(601) - 3208323288	"(4.808512, -75.730033)"	dim22@buzonejercito.mil.co			4.808512	-75.730033
+8	30	Kilometro 2 Via aeropuerto Barrio Santa Ana	CARTAGO	(601) - 3208322058	"(4.75934, -75.94463)"	dim30@buzonejercito.mil.co			4.75934	-75.94463
+8	31	Carrera 23a N° 74 -00 millan	MANIZALES	(601) - 3208323293	"(5.04743, -75.4839)"	dim31@buzonejercito.mil.co			5.04743	-75.4839
+8	39	Avenida Bolibar # 25 - 00 Octava Brigada	ARMENIA	(601) - 3203933953	"(4.561948, -75.652965)"	dim39@buzonejercito.mil.co			4.561948	-75.652965
+9	Zona 09	Carrera 16 No.21-300 La Libertad	NEIVA	(601) - 3208327132	"(2.938574, -75.280149)"	luis.mendezma@buzonejercito.mil.co			2.938574	-75.280149
+9	42	Carrera 16 No.21-300 La Libertad	NEIVA	(601) - 3208327132	"(2.938574, -75.280149)"	luis.mendezma@buzonejercito.mil.co			2.938574	-75.280149
+9	43	Calle 16 Carrera 15 Esquina	FLORENCIA	(601) - 3203911155	"(1.615864, -75.616014)"	richard.becerra@buzonejercito.mil.co			1.615864	-75.616014
+9	56	Av. Vía San Agustín No.2-50	PITALITO	(601) - 3203911157	"(1.842732, -75.52517)"	raul.caicedo@buzonejercito.mil.co			1.842732	-75.52517
+9	62	Carrera 9 No.9A07 Av. Colombia - Mocoa Putumayo	MOCOA	(601) - 3203911160	"(1.140399, -76.648031)"	jhoncock.sepulveda@buzonejercito.mil.co			1.140399	-76.648031
+11	Zona 11	Kilometro 3 avenida sierra chiquita via jaraquiel (Brigada 11)	MONTERIA	(064) - 3288328452	"(8.740782, -75.902352)"	zona11@buzonejercito.mil.co			8.740782	-75.902352
+11	11	Avenida trancal de occidente Cra 9 N° 33-241 barrio las delicias	SINCELEJO	(064) - 3203933962	"(9.283433, -75.39907)"	DIM11@buzonejercito.mil.co			9.283433	-75.39907
+11	13	Kilometro 3 avenida sierra chiquita via jaraquiel (Brigada 11)	MONTERIA	(064) - 3203933964	"(8.740782, -75.902352)"	DIM13@buzonejercito.mil.co			8.740782	-75.902352
+11	61	Kilometro 7 Via Caucasia - Medellin  Inastalaciones BIRIF N° 31	CACERES (Antioquia)	(064) - 3208329672	"(7.912555, -75.215673)"	DIM61@buzonejercito.mil.co			7.912555	-75.215673
+13	Zona 13	Av Americas N°58-38	Bogota	(601) - 3208328453	"(4.81367, -74.35453)"	zon13@buzonejercito.mil.co			4.81367	-74.35453
+13	46	Carrera 5b Tres esquinas	Facatativa	(601) - 3208322030	"(5.02208, -74.00481)"	dim46@buzonejercito.mil.co			5.02208	-74.00481
+13	47	Carrera 1 N° 6-21 Paque villaveces	Zipaquira	(601) - 3208329678	"(4.60971, -74.08175)"	dim47@buzonejercito.mil.co			4.60971	-74.08175
+13	51	Av Americas N°58-38	Bogota	(601) - 3208329679	"(4.81367, -74.35453)"	dim51@buzonejercito.mil.co			4.81367	-74.35453
+13	52	Calle 51 sur N° 5F-87	Bogota	(601) - 3208329684	"(4.477, -74.103)"	dim52@buzonejercito.mil.co			4.477	-74.103
+13	55	Calle 22 N° 50-354a	Fusagasuga	(601) - 3208329685	"(4.33646, -74.36378)"	dim55@buzonejercito.mil.co			4.33646	-74.36378
+13	59	Calle 19 N° 5-21	Soacha	(601) - 3208329686	"(4.582381167835652, -74.2140401128479)"	dim59@buzonejercito.mil.co			4.582381168	-74.21404011
+15	Zona 15	Carrera 11bN°104a-64	BOGOTA	(601) - 3208327130	"(4.7109886, -74.072092)"	zona15@buzonejercito.mil.co			4.7109886	-74.072092
+15	1	Carrera 11bN°104a-64	BOGOTA	(601) - 3203911145	"(4.7109886, -74.072092)"	dim01@buzonejercito.mil.com			4.7109886	-74.072092
+15	2	Calle19 sur N°6- 40	BOGOTA	(601) - 3203911150	"(4.7109886, -74.072092)"	dim02@buzonejercito.mil.com			4.7109886	-74.072092
+15	3	Calle 33 sur N°79-80	BOGOTA	(601) - 3203911153	"(4.7109886, -74.072092)"	dim03@buzonejercito.mil.com			4.7109886	-74.072092
+15	4	Carrera 11bN°104a-64	BOGOTA	(601) - 3203911154	"(4.7109886, -74.072092)"	dim04@buzonejercito.mil.com			4.7109886	-74.072092
